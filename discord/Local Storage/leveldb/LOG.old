@@ -1,5 +1,0 @@
-2023/11/26-17:14:14.424 4cc5 Reusing MANIFEST /home/aephus/.config/discord/Local Storage/leveldb/MANIFEST-000001
-2023/11/26-17:14:14.424 4cc5 Recovering log #4
-2023/11/26-17:14:14.424 4cc5 Reusing old log /home/aephus/.config/discord/Local Storage/leveldb/000004.log 
-2023/11/26-17:16:06.970 4cc6 Level-0 table #8: started
-2023/11/26-17:16:06.984 4cc6 Level-0 table #8: 2706930 bytes OK

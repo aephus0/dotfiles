@@ -1,0 +1,4 @@
+timeout 300 'hyprctl dispatch dpms off' 
+timeout 305 'swaylock -f -i ~/backgrounds/laundry.png -c 000000'
+before-sleep 'swaylock -f -i ~/backgrounds/laundry.png -c 000000'
+resume 'hyprctl dispatch dpms on'

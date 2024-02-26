@@ -10,14 +10,13 @@
   "modules-left": ["hyprland/workspaces"],
   "modules-center": ["hyprland/window"],
   "modules-right": [
+    "tray",
     "custom/notification",
-    "cava",
     "memory",
     "disk",
     "pulseaudio",
     "network",
     "clock",
-    "tray",
     "custom/power-menu"
   ],
   "cava": {

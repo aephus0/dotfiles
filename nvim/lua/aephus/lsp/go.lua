@@ -1,0 +1,6 @@
+-- local go_status_ok, go = pcall(require, "go")
+-- if not go_status_ok then
+-- 	return
+-- end
+--
+-- go.setup({})

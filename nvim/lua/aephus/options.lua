@@ -16,3 +16,4 @@ vim.opt.splitright = true
 vim.opt.splitbelow = true
 vim.opt.clipboard = "unnamedplus"
 vim.opt.undofile = true
+vim.opt.modifiable = true

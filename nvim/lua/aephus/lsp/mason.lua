@@ -11,7 +11,9 @@ local servers = {
 	"cmake",
 	"svelte",
 	"tailwindcss",
-	"rust_analyzer"
+	"rust_analyzer",
+	"gopls",
+	"zls"
 }
 
 local settings = {

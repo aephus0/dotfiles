@@ -41,7 +41,6 @@ require("lazy").setup({
 	{ "nvim-telescope/telescope-fzf-native.nvim", build = "make" },
 
 	{ "nvim-treesitter/nvim-treesitter", build = ":TSUpdate", lazy = false },
-
 	"JoosepAlviste/nvim-ts-context-commentstring",
 
 	"lewis6991/gitsigns.nvim",
